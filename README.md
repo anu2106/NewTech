@@ -1,2 +1,2 @@
 # NewTech
-Beginners web development repository
+!!WELCOME TO MY REPOSITORY!! Its full of magic :)
